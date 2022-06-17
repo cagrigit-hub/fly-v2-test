@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+html {
+  background-color: #000000;
+  background: linear-gradient(45deg, #000000 0%, #131a68 21%, #000000 95%) repeat center center fixed;
+  background-size: contain;
+}
+
+textarea{
+  resize: none;
+}
+
