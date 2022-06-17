@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## fly-v2-test
+## This is a test of a new version of fly :)
 
+New Upgrades:
+Notification System,
+
+Read / Unread System,
+
+Report System
+
+and more..
 ## Getting Started
 
 First, run the development server:
